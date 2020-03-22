@@ -1,4 +1,3 @@
-//Rongyu.Wang
 
 package CarSaleSys;
 
