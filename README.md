@@ -33,7 +33,7 @@
 <img src="screenshots/Picture4.png" />
 <img src="screenshots/Picture5.png" />
 <img src="screenshots/Picture6.png" />
-<img src="screenshots/Picture7.png" />
+<img src="screenshots/Picture8.png" />
 
 ### Test case 3
 #### Pre-condition
@@ -47,8 +47,6 @@
 - Exit the program and a new text file named “Garage.txt” has been created
 - The data of the new car has been written in file.
 #### Screenshots
-<img src="screenshots/Picture8.png" />
-<img src="screenshots/Picture9.png" />
 <img src="screenshots/Picture10.png" />
 <img src="screenshots/Picture11.png" />
 
